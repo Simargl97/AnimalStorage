@@ -228,7 +228,7 @@ public class ConsoleView implements View {
 
     private void printRegistryHeader() {
         String header = String.format(COLUMN_HEADER_FORMAT, "№", "Имя", "Дата рождения", "Возраст(в месяцах)",
-                "Класс животного");
+                "Класс животног");
         System.out.println(header);
     }
 
